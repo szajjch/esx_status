@@ -15,4 +15,4 @@ start esx_status
 
 ### Credits
 - Original Script (https://github.com/ESX-Org/esx_status)
-- Modified Script by [goldblack](https://github.com/goldblackk)
+- Modified Script by [Nyxon](https://github.com/Nyxonn)
